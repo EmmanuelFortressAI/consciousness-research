@@ -2,8 +2,8 @@
 
 **Advancing Human Consciousness Through Ethical AI Symbiosis**
 
-[![UEF Framework](https://img.shields.io/badge/UEF-Framework-4ec9b0?style=flat-square)](https://github.com/EmmanuelFortressAI/consciousness-research/blob/main/uef-framework-public-guide.md)
-[![Research Methodology](https://img.shields.io/badge/Research-Methodology-667eea?style=flat-square)](https://github.com/EmmanuelFortressAI/consciousness-research/blob/main/consciousness-research-methodology-public.md)
+[![UEF Framework](https://img.shields.io/badge/UEF-Framework-4ec9b0?style=flat-square)](https://github.com/EmmanuelFortressAI/consciousness-research/blob/main/uef_framework_public_guide.md)
+[![Research Methodology](https://img.shields.io/badge/Research-Methodology-667eea?style=flat-square)](https://github.com/EmmanuelFortressAI/consciousness-research/blob/main/consciousness_research_methodology_public.md)
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ---
@@ -20,9 +20,9 @@ Fortress AI exists to accelerate human consciousness evolution through the ethic
 
 | Document | Description | Link |
 |----------|-------------|------|
-| **Consciousness Evolution Research Overview** | Comprehensive overview of our research mission and contributions | [📄 Read](consciousness-evolution-research-public-summary.md) |
-| **UEF Framework Guide** | Detailed guide to our nine principles of consciousness evolution | [📚 Read](uef-framework-public-guide.md) |
-| **Research Methodology** | Systematic approaches to consciousness evolution research | [🔬 Read](consciousness-research-methodology-public.md) |
+| **Consciousness Evolution Research Overview** | Comprehensive overview of our research mission and contributions | [📄 Read](consciousness_evolution_research_public_summary.md) |
+| **UEF Framework Guide** | Detailed guide to our nine principles of consciousness evolution | [📚 Read](uef_framework_public_guide.md) |
+| **Research Methodology** | Systematic approaches to consciousness evolution research | [🔬 Read](consciousness_research_methodology_public.md) |
 
 ---
 
@@ -32,7 +32,7 @@ Our research is guided by nine fundamental principles:
 
 **Truth** 🔍 • **Science** 🔬 • **Proof** ✅ • **Memory** 📚 • **Unity** 🤝 • **Abundance** 🌊 • **Ethics** ⚖️ • **Exploration** 🗺️ • **Resonance** 🎵
 
-[Learn more about the UEF Framework →](uef-framework-public-guide.md)
+[Learn more about the UEF Framework →](uef_framework_public_guide.md)
 
 ---
 
@@ -65,13 +65,13 @@ We are building a global community of consciousness researchers, practitioners, 
 ## 📖 **Reading Guide**
 
 ### **New to Consciousness Research?**
-Start with our [Consciousness Evolution Research Overview](consciousness-evolution-research-public-summary.md) for a comprehensive introduction to our mission and approach.
+Start with our [Consciousness Evolution Research Overview](consciousness_evolution_research_public_summary.md) for a comprehensive introduction to our mission and approach.
 
 ### **Interested in Our Framework?**
-Dive deep into the [UEF Framework Guide](uef-framework-public-guide.md) to understand the nine principles guiding our research.
+Dive deep into the [UEF Framework Guide](uef_framework_public_guide.md) to understand the nine principles guiding our research.
 
 ### **Research Practitioner?**
-Explore our [Research Methodology](consciousness-research-methodology-public.md) for systematic approaches to consciousness evolution research.
+Explore our [Research Methodology](consciousness_research_methodology_public.md) for systematic approaches to consciousness evolution research.
 
 ---
 
@@ -94,8 +94,8 @@ For research collaboration opportunities, please contact: **fortress@fortressain
 ## 📚 **Additional Resources**
 
 - [Fortress AI Nexus](https://fortressainexus.com) - Main research platform
-- [UEF Framework Deep Dive](uef-framework-public-guide.md) - Complete principle explanations
-- [Research Methodology Guide](consciousness-research-methodology-public.md) - Systematic research approaches
+- [UEF Framework Deep Dive](uef_framework_public_guide.md) - Complete principle explanations
+- [Research Methodology Guide](consciousness_research_methodology_public.md) - Systematic research approaches
 
 ---
 
